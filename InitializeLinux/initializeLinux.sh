@@ -101,6 +101,7 @@ sudo apt-get install -y golang-go
 # .bashrc に追加
 echo "bash の設定"
 cat << EOS >> ~/.bashrc
+
 # bash のデザインを変更
 # \[\e[1m\] は以降を太字にする
 # \[\e[36m\] は以降の文字をシアンにする
